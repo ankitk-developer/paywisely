@@ -1,3 +1,27 @@
 .bg-main {
   background: linear-gradient(to bottom left, #d5c2f0, #dbc2eb, #e1c2e5, #e7c2df);
 }
+/* .bg {
+  background: linear-gradient(to bottom left, #e2d4f7, #e0ccec, #e5cce9, #e7c9e1);
+} */
+
+/* .bg {
+  background: linear-gradient(to bottom left, #e4d8f3, #e2cde8, #e7cde5, #eacad9);
+} */
+.bg {
+  background: rgb(246, 237, 237);
+}
+/* .bg-secondary {
+  background: linear-gradient(to top right, #d6c4e6, #d1b8d9, #d8b8d6, #ddbacd);
+} */
+
+.bg-secondary {
+  background: rgb(244, 241, 241);
+}
+.main {
+  width: 100vw;
+  min-height: 100vh;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+}

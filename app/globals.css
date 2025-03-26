@@ -18,5 +18,6 @@
 
 @theme {
   --color-primary: "#51e5ff";
+  --color-main: #438883;
   --font-nunito: "Nunito Sans", "sans-serif";
 }
